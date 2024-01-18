@@ -1,6 +1,4 @@
-# Simplefolio ⚡️ 
-
-## A minimal portfolio template for Developers!
+# My PortFolio ⚡️ 
 
 <h2 align="center">
   <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.gif" alt="Simplefolio" width="600px" />
