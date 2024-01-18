@@ -1,6 +1,6 @@
 # My PortFolio ⚡️ 
 
-##Features
+## Features
 
 ⚡️ Modern UI Design + Reveal Animations\
 ⚡️ One Page Layout\
